@@ -1,0 +1,12 @@
+Table tbl_project1_day created successfully
+QueryResult.java loading failed
+Data lmported failed
+Table mngtbl already existed
+Data loading to hive managed table failed
+Table scdtbl already existed
+Data insertion to hive SCD table failed
+Table stgtbl already existed
+Data insertion to hive Staging table failed
+Table Reconciliation created successfully
+Data exported to re_tbl table failed
+No equal records
